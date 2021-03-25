@@ -14,7 +14,7 @@ git clone https://github.com/sboez/Webpack-Boilerplate.git
 npm install
 ```
 
-## Developement
+## Development
 
 ```shell
 npm run dev
