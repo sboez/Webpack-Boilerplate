@@ -1,6 +1,6 @@
 # :package: Webpack-Boilerplate
 
-<img src="https://img.shields.io/badge/webpack-5.22.0-blue"> <img src="https://img.shields.io/badge/webpack  cli-4.5.0-blue">
+<img src="https://img.shields.io/badge/webpack-5.52.1-blue">
 
 My basic Webpack boilerplate with Babel and Sass
 
